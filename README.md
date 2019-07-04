@@ -4,8 +4,8 @@
 4 - Go to fr_envoyer_sms.cs and change "your_api_key" by your api key.<br/>
 5 - Run the code from Visual Studio.<br/>
 6 - Enter the following information : <br/>
-* Pseudo :ismailfedaoui<br/>
-* mot de passe: P@ssw0rd1<br/>
+* Pseudo : ismailfedaoui<br/>
+* mot de passe : P@ssw0rd1<br/>
 * Say "Directeur"<br/>
 7 - Go to "Gestionnaires" and add a new one and Click on "Déconnexion".<br/>
 8 - Enter the infomations inserted (pseudo and password) and say "Gestonnaire".<br/>
