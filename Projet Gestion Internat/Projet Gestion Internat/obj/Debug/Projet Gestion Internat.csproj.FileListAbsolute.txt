@@ -1,0 +1,243 @@
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.exe.config
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.exe
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.pdb
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\FlashControlV71.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\stdole.dll
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.xml
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.xml
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.pdb
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.xml
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.pdb
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.xml
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csprojAssemblyReference.cache
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Aceuil_dir.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_envoyer_sms.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_carte_internat.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_exporter_carte.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.form_pesuo_gest.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_modifier_p.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_carte.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_contr.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_stg.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_mot_de_passe_oublié.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_saisir_nv_mdp.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Acceuil.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Form1.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Properties.Resources.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_acceuil.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_afficher_abs.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_autorisations.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_compte_gest.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_controler_abs.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_filieres.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_menu_abs.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_sanctions.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_stagiaire.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_affecter_paiement.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_afficher_tous.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_ajouter.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_chef_chambre.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_details_scan.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_modifier.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_supprimer.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_compte_dir.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_gestionnaires.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rapports.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rapport_contr.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.supprimer_filiere.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_scan.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rechercher_respo_chambre.resources
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.GenerateResource.cache
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.CoreCompileInputs.cache
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.CopyComplete
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.exe
+C:\Users\FEDAOUI\source\repos\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.pdb
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.exe.config
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.exe.manifest
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.application
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.exe
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.pdb
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\FlashControlV71.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\stdole.dll
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.xml
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.xml
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.pdb
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.xml
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.pdb
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.xml
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csprojAssemblyReference.cache
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Aceuil_dir.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_envoyer_sms.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_carte_internat.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_exporter_carte.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.form_pesuo_gest.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_modifier_p.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_carte.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_contr.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_stg.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_mot_de_passe_oublié.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_saisir_nv_mdp.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Acceuil.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Form1.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Properties.Resources.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_acceuil.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_afficher_abs.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_autorisations.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_compte_gest.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_controler_abs.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_filieres.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_menu_abs.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_sanctions.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_stagiaire.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_affecter_paiement.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_afficher_tous.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_ajouter.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_chef_chambre.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_details_scan.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_modifier.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_supprimer.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_compte_dir.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_gestionnaires.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rapports.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rapport_contr.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.supprimer_filiere.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_scan.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rechercher_respo_chambre.resources
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.GenerateResource.cache
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.CoreCompileInputs.cache
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.TrustInfo.xml
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.exe.manifest
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.application
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.CopyComplete
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.exe
+C:\Users\le\Desktop\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.pdb
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.exe.config
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.exe.manifest
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.application
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.exe
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\Projet Gestion Internat.pdb
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.DirectShow.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.Shared.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\FlashControlV71.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\ShockwaveFlashObjects.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\stdole.dll
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.xml
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.xml
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\AForge.Video.DirectShow.xml
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.pdb
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.xml
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.pdb
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\bin\Debug\zxing.presentation.xml
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Aceuil_dir.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_envoyer_sms.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_carte_internat.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_exporter_carte.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.form_pesuo_gest.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_modifier_p.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_carte.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_contr.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.imprimer_stg.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_mot_de_passe_oublié.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.fr_saisir_nv_mdp.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Acceuil.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Form1.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.Properties.Resources.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_acceuil.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_afficher_abs.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_autorisations.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_compte_gest.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_controler_abs.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_filieres.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_menu_abs.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_sanctions.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_stagiaire.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_affecter_paiement.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_afficher_tous.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_ajouter.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_chef_chambre.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_details_scan.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_modifier.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_supprimer.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_compte_dir.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_gestionnaires.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rapports.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rapport_contr.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.supprimer_filiere.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_scan.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet_Gestion_Internat.uc_rechercher_respo_chambre.resources
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.GenerateResource.cache
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.CoreCompileInputs.cache
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.TrustInfo.xml
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.exe.manifest
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.application
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csproj.CopyComplete
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.exe
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.pdb
+D:\FEDAOUI + ELKAOURI\Projet Gestion Internat\Projet Gestion Internat\obj\Debug\Projet Gestion Internat.csprojAssemblyReference.cache
